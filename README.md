@@ -1,5 +1,3 @@
-# PreTrained_BrainTumorMRI.ipynb
-
 # Brain Tumor Classification Project Overview
 
 ## Dataset Description
