@@ -1,6 +1,7 @@
 # Brain Tumor Classification Project Overview
 
 ## Dataset Description
+- Dataset : https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 - Brain Tumor MRI dataset with four classes: glioma, meningioma, notumor, and pituitary.
 - Number of files per class: glioma (300), meningioma (306), notumor (405), pituitary (300).
 - Images are in JPEG format, grayscale, and consistent size of 512x512 pixels.
